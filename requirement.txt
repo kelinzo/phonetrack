@@ -1,4 +1,5 @@
 streamlit
 phonenumbers
 geopy
-pandas
+folium
+streamlit-folium
