@@ -1,5 +1,0 @@
-streamlit
-phonenumbers
-geopy
-folium
-streamlit-folium
